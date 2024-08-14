@@ -1,4 +1,4 @@
-const BASE_URL = "https://study-mate-backend.vercel.app/api/v1"
+const BASE_URL = "https://studymate-backend-gxym.onrender.com/api/v1"
 
 // AUTH ENDPOINTS
 export const endpoints = {
